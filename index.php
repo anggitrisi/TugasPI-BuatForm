@@ -23,7 +23,7 @@
       <form method="post" action="">
         <div class="form-item">Field dengan (*) wajib diisi</div>
 
-        <div class="form-item"><label for = "no_rk">No Rekam Medis* </label></div> 
+        <div class="form-item"><label for = "no_rk">Nomor Rekam Medis* </label></div> 
         <input type="text" name="no_rk" id = "no_rk" required>
 
         <div class="form-item"><label for = "name">Nama*</label></div> 
